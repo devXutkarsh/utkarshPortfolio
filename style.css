@@ -52,7 +52,7 @@ nav li a {
   /* padding: 100px 50px; */
 }
 .devinfo {
-  font-size: 10px;
+  font-size: 11px;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -246,7 +246,7 @@ border-radius: 50%;
 }
 .t5{
   width: 75px;
-  background-color: ;
+  /* background-color: ; */
 }
 /* .container{
   border: 2px solid black;
